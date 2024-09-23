@@ -24,3 +24,12 @@ h2 {
 .project {
     margin-bottom: 15px;
 }
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #007BFF;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
